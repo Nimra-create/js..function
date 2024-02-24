@@ -49,7 +49,7 @@ console.log("Total cost:", totalCost);
 
 //question 4
 function TriangleArea(base, height) {
-        return (base * height);
+        return (1/2 *  base * height);
       
     }
     
